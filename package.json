@@ -1,0 +1,19 @@
+{
+  "name": "serverless-email",
+  "version": "0.0.1",
+  "description": "A simple email sending service using the serverless framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentmclark/serverless-email.git"
+  },
+  "author": "Brent Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentmclark/serverless-email/issues"
+  },
+  "homepage": "https://github.com/brentmclark/serverless-email#readme"
+}
